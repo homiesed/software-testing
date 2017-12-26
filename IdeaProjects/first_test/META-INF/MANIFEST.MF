@@ -1,0 +1,2 @@
+Main-Class: main.company.Main
+first_test\src\test\java\autotest
